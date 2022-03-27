@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b0daf727-e23a-7964-1128-c102a7960502
 resourcetype: Document
 title: How to Read & Analyze a Scientific Paper
 uid: 34dd4191-06fb-efe7-cfb3-16950a2d30ec

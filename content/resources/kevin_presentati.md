@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 050715ff-b86c-a406-0f24-ee95e87f03cc
 resourcetype: Document
 title: Are All APLs created Equal?
 uid: 6dffdde9-da96-ef91-d1de-28a20c5c1395

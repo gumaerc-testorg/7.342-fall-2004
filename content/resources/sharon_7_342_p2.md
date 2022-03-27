@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 050715ff-b86c-a406-0f24-ee95e87f03cc
 resourcetype: Document
 title: Project 2 proposal
 uid: 2bbb1476-c666-df1c-af69-f444bcf6ed65

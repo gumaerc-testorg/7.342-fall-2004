@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 050715ff-b86c-a406-0f24-ee95e87f03cc
 resourcetype: Document
 title: Project 1 abstract by Sharon Lawrence
 uid: c3b25dce-53d2-1d3e-2165-4a9be02c04aa

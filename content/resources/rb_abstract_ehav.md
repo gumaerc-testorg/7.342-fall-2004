@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 050715ff-b86c-a406-0f24-ee95e87f03cc
 resourcetype: Document
 title: Project 1 abstract by Emily Havens
 uid: 869ac633-aed2-4ff0-7da3-eeda0de3c99f
