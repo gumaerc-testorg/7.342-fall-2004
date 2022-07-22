@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a collection of student questions on the weekly
+  readings and additional handouts.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 0cae823a-9118-fb46-254d-db91ac346990
 ---
@@ -7,7 +11,7 @@ uid: 0cae823a-9118-fb46-254d-db91ac346990
 Additional Handouts
 -------------------
 
-Common Definitions of Cancer Biology Terms ([PDF]({{< baseurl >}}/resources/definitions))
+Common Definitions of Cancer Biology Terms ({{% resource_link ac8cce20-f8fe-895f-b437-d97dbd1b17ad "PDF" %}})
 
 [How To Read Scientific Papers](http://cbc.arizona.edu/classes/bioc568/papers.htm) Online Resource
 

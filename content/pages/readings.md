@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the readings for the course, organized by weekly
+  session and topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b0daf727-e23a-7964-1128-c102a7960502
 ---
