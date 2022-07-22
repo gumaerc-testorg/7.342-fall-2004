@@ -9,6 +9,7 @@ file: /courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Are All APLs created Equal?
 uid: 6dffdde9-da96-ef91-d1de-28a20c5c1395
 ---
 Slides for a student's proposal presentation based on Rego, E. M., et al. "Retinoic acid (RA) and As2O3 treatment in transgenic models of acute promyelocytic leukemia (APL) unravel the distinct nature of the leukemogenic process induced by the PML-RARalpha and PLZF-RARalpha oncoproteins." PNAS 97, no. 18 (August 29, 2000): 10173-8. (Courtesy of Dr. Kevin Haigis. Used with Permission.)
-

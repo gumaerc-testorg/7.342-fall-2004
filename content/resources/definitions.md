@@ -5,6 +5,7 @@ file: /courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Definitions
 uid: ac8cce20-f8fe-895f-b437-d97dbd1b17ad
 ---
 Glossary of terms for doing research in cancer biology.
-

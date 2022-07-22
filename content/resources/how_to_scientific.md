@@ -5,6 +5,7 @@ file: /courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: How to Read & Analyze a Scientific Paper
 uid: 34dd4191-06fb-efe7-cfb3-16950a2d30ec
 ---
 Guidelines on how to read and analyze a scientific paper.
-
