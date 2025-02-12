@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Guidelines on how to read and analyze a scientific paper.
-file: /courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/9f10f2ffe14d529b1ded981e54f4a049_howto_scientific.pdf
+file: /ol-ocw-studio-app/courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/9f10f2ffe14d529b1ded981e54f4a049_howto_scientific.pdf
+file_size: 16508
 file_type: application/pdf
 learning_resource_types:
 - Readings

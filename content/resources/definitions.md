@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Glossary of terms for doing research in cancer biology.
-file: /courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/ac8cce20f8fe895fb437d97dbd1b17ad_definitions.pdf
+file: /ol-ocw-studio-app/courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/ac8cce20f8fe895fb437d97dbd1b17ad_definitions.pdf
+file_size: 23062
 file_type: application/pdf
 learning_resource_types:
 - Readings
