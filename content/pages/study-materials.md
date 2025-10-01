@@ -13,7 +13,7 @@ Additional Handouts
 
 Common Definitions of Cancer Biology Terms ({{% resource_link ac8cce20-f8fe-895f-b437-d97dbd1b17ad "PDF" %}})
 
-[How To Read Scientific Papers](http://cbc.arizona.edu/classes/bioc568/papers.htm) Online Resource
+{{% resource_link "4559c71f-9b14-49d9-ae91-dff083cca42b" "How To Read Scientific Papers" %}} Online Resource
 
 Student Weekly Questions
 ------------------------
@@ -64,11 +64,11 @@ Genetic Pathways in Cancer
 {{< tdopen >}}
 Vogelstein, B., E. R. Fearon, S. R. Hamilton, S. E. Kern, A. C. Preisinger, M. Leppert, Y. Nakamura, R. White, A. M. Smits and J. L. Bos. "Genetic alterations during colorectal-tumor development." _N Engl J Med._ 319 (1988): 525-532.  
   
-[The New England Journal of Medicine](http://content.nejm.org/)  
+{{% resource_link "e6396bbe-9ec6-48cf-b689-c418910e1485" "The New England Journal of Medicine" %}}  
   
 Chin, L., J. Pomerantz, D. Polsky, M. Jacobson, C. Cohen, C. Cordon-Cardo, J. W. Horner 2nd, and R. A. DePinho. "Cooperative effects of INK4a and ras in melanoma susceptibility in vivo." _Genes Dev._ 11 (1997): 2822-2834.  
   
-[Genes and Developement](http://www.genesdev.org/)
+{{% resource_link "bbac5a3a-5f12-4af9-bbda-c5872a6420b0" "Genes and Developement" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 _Vogelstein, et al._  
@@ -105,11 +105,11 @@ Cell Cycle Control
 {{< tdopen >}}
 Hartwell, L. H., J. Culotti, and B. Reid. "Genetic control of the cell-division cycle in yeast. I. Detection of mutants." _Proc. Natl Acad. Sci USA_ 66 (1970): 352-359.  
   
-[Proceedings of National Academy of Sciences](http://www.pnas.org/)  
+{{% resource_link "a9955de0-e0ee-4430-86d5-9b97e65dd8d7" "Proceedings of National Academy of Sciences" %}}  
   
 Goodrich, D. W., N. P. Wang, Y. W. Qian, E. Lee, and W. H. Lee. "The retinoblastoma gene product regulates progression through the G1 phase of the cell cycle." _Cell_ 67 (1991): 293-302.  
   
-[CellPress](http://www.cellpress.com/)
+{{% resource_link "bb2ad57e-798a-45ff-bec7-0e7b97a0bdd4" "CellPress" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 _Hartwell, et al.  
@@ -136,7 +136,7 @@ Hengartner, M. O., and H. R. Horvitz. "C. elegans cell survival gene ced-9 encod
   
 Lowe, S. W., E. M. Schmitt, S. W. Smith, B. A. Osborne, and T. Jacks. "p53 is required for radiation-induced apoptosis in mouse thymocytes." _Nature_ 362 (1993): 847-849.  
   
-[Nature Publishing Group](http://www.nature.com/)
+{{% resource_link "e16e894a-b186-404c-a208-ac357a0e836f" "Nature Publishing Group" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 (1) My first question is: how does apoptosis fit into cancer biology? I'm sure the answer is very obvious, but I'm not very clear on the connection between the two.  
@@ -231,7 +231,7 @@ Tissue Specificity and Cells of Origin
 {{< tdopen >}}
 Meuwissen, R., S. C. Linn, R. I. Linnoila, J. Zevenhoven, W. J. Mooi, and A. Berns. "Induction of small cell lung cancer by somatic inactivation of both Trp53 and Rb1 in a conditional mouse model." _Cancer Cell_ 4 (2003): 181-189.  
   
-[CellPress](http://www.cellpress.com/)  
+{{% resource_link "bb2ad57e-798a-45ff-bec7-0e7b97a0bdd4" "CellPress" %}}  
   
 Brown, K., D. Strathdee, S. Bryson, W. Lambie, and A. Balmain. "The malignant capacity of skin tumours induced by expression of a mutant H-ras transgene depends on the cell type targeted." _Current Biol._ 8 (1998): 516-524.
 {{< tdclose >}}
@@ -301,7 +301,7 @@ Differentiation and Cancer
 {{< tdopen >}}
 Kleinsmith, L. J., and G. B. Pierce. "Multipotentiality of single embryonal carcinoma cells." _Cancer Res._ 24 (1964): 1544-1551.  
   
-[Cancer Research](http://cancerres.aacrjournals.org/)  
+{{% resource_link "82ba3001-244f-4453-a930-8af44d0d30f3" "Cancer Research" %}}  
   
 Rego, E. M., L. Z. He, R. P. Warrell Jr, Z. G. Wang, and P. P. Pandolfi. "Retinoic acid (RA) and As2O3 treatment in transgenic models of acute promyelocytic leukemia (APL) unravel the distinct nature of the leukemogenic process induced by the PML-RARalpha and PLZF-RARalpha oncoproteins." _Proc. Natl Acad. Sci. USA_ 97 (2000): 10173-10178.
 {{< tdclose >}}
@@ -369,7 +369,7 @@ Angiogenesis
 {{< tdopen >}}
 Folkman, J., E. Merler, C. Abernathy, and G. Williams. "Isolation of a tumor factor responsible or angiogenesis." _J Exp Med._ 133 (1971): 275-288.  
   
-[Journal of Experimental Medicine](http://www.jem.org/)  
+{{% resource_link "0b196bdc-7075-4b60-b10e-e59f08f8fb9a" "Journal of Experimental Medicine" %}}  
   
 O'Reilly, M. S., T. Boehm, Y. Shing, N. Fukai, G. Vasios, W. S. Lane, E. Flynn, J. R. Birkhead, B. R. Olsen, and J. Folkman. "Endostatin: an endogenous inhibitor of angiogenesis and tumor growth." _Cell_ 88 (1997): 277-285.
 {{< tdclose >}}
@@ -404,7 +404,7 @@ Druker, B. J., S. Tamura, E. Buchdunger, S. Ohno, G. M. Segal, S. Fanning, J. Zi
   
 Paez, J. G., P. A. Janne, J. C. Lee, S. Tracy, H. Greulich, S. Gabriel, P. Herman, F. J. Kaye, N. Lindeman, T. J. Boggon, K. Naoki, H. Sasaki, Y. Fujii, M. J. Eck, W. R. Sellers, B. E. Johnson, and M. Meyerson. "EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy." _Science_ 304 (2004): 1497-1500.  
   
-[Science Magazine](http://www.sciencemag.org/)
+{{% resource_link "ce6dcc46-0b4a-45ec-b448-26ea70b6e25f" "Science Magazine" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 _Druker, et al.  
